@@ -1,6 +1,6 @@
 ## Oi meu nome é Lucas
 
-- 🌱 Além das materias da faculdade, estou também, estudando sobre desenvolvimento web e android
+- 🌱 Além das materias da faculdade, estou também, estudando sobre desenvolvimento web e mobile
 
 <div align="center">
   <a href="https://github.com/LucasMartinsAlves">
